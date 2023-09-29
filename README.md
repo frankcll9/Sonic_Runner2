@@ -1,4 +1,4 @@
-Opa, essa código feito com JavaScript faz com que a verificação
+Opa, esse código feito com JavaScript faz com que a verificação
 em nossa estrutura condicional foque quando o elemento "Sonic" não pular
 em certo limite de altura quando o elemento "Eggman" enconstar, é necessário
 que haja uma paralisação dos elementos e uma mudança de fundo para o "Game Over".
